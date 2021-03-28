@@ -1,1 +1,1 @@
-# awesome-machine-learning-for-combination-therapy
+# Awesome Machine Learning for Combination Therapy
