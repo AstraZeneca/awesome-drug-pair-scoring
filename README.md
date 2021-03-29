@@ -7,7 +7,7 @@ A collection of graph classification methods, covering embedding, deep learning,
 Relevant graph classification benchmark datasets are available [[here]](https://github.com/shiruipan/graph_datasets).
 
 <p align="center">
-  <img width="400" src="atlas.png">
+  <img width="400" src="https://www.nridigital.com/wp-content/uploads/2018/10/pill.jpg">
 </p>
 
 ## Contents  
