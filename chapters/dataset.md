@@ -2,7 +2,7 @@
 
 ### 2020
 
-- **Title (Venue Year)**
-  - Name Name and Name Name
-  - [[Paper]]()
-  - [[Language Framework]]()
+- **DrugCombDB: A Comprehensive Database of Drug Combinations Toward the Discovery of Combinatorial Therapy (Nucleic Acids Research 2020)**
+  - Hui Liu, Wenhao Zhang, Bo Zou, Jinxian Wang, Yuanyuan Deng, Lei Deng
+  - [[Paper]](https://academic.oup.com/nar/article/48/D1/D871/5609522)
+  - [[Dataset]](http://drugcombdb.denglab.org/)
