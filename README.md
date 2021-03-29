@@ -2,9 +2,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A collection of graph classification methods, covering embedding, deep learning, graph kernel and factorization papers with reference implementations.
-
-Relevant graph classification benchmark datasets are available [[here]](https://github.com/shiruipan/graph_datasets).
+A collection of machine learning papers and datasets about drug combination therapy design.
 
 <p align="center">
   <img width="400" src="https://www.nridigital.com/wp-content/uploads/2018/10/pill.jpg">
@@ -12,10 +10,11 @@ Relevant graph classification benchmark datasets are available [[here]](https://
 
 ## Contents  
 
-1. [Synergy Score Prediction]()  
-2. [Polihparmacy Prediction]()
-3. [Generative Models]()
-4. [Datasets]()  
+1. [Survey Papers]()  
+2. [Synergy Score Prediction]()  
+3. [Polihparmacy Prediction]()
+4. [Generative Models]()
+5. [Datasets]()  
 
 --------------------------------------------------------------------------------
 
