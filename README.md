@@ -10,11 +10,11 @@ A collection of machine learning papers and datasets about drug combination ther
 
 ## Contents  
 
-1. [Survey Papers](chapers/survey.md)  
-2. [Synergy Score Prediction]()  
-3. [Polihparmacy Prediction]()
-4. [Generative Models]()
-5. [Datasets]()  
+1. [Survey Papers](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/survey.md)  
+2. [Synergy Score Prediction](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/synergy.md)  
+3. [Polihparmacy Prediction](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/polipharmacy.md)
+4. [Generative Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/generative.md)
+5. [Datasets](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/dataset.md)  
 
 --------------------------------------------------------------------------------
 
