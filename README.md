@@ -12,9 +12,9 @@ Relevant graph classification benchmark datasets are available [[here]](https://
 
 ## Contents  
 
-1. [Matrix Factorization](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/chapters/matrix_factorization.md)  
-2. [Spectral and Statistical Fingerprints](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/chapters/fingerprints.md)
-3. [Deep Learning](https://github.com/benedekrozemberczki/awesome-graph-classification/blob/master/chapters/deep_learning.md)  
+1. [Synergy Score Prediction]()  
+2. [Polihparmacy Prediction]()
+3. [Generative Models]()  
 
 --------------------------------------------------------------------------------
 
