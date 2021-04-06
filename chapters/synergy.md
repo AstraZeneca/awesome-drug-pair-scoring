@@ -11,5 +11,5 @@
 
 - **DeepSynergy: Predicting Anti-Cancer Drug Synergy with Deep Learning (Bioinformatics 2017)**
   - Brent M Kuenzi, Jisoo Park, Samson H Fong, Kyle S Sanchez, John Lee, Jason F Kreisberg, Jianzhu Ma, Trey Ideker
-  - [[Paper]](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30488-8.pdf)
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/34/9/1538/4747884)
   - [[PyTorch]](https://github.com/idekerlab/DrugCell)
