@@ -12,4 +12,4 @@
 - **DeepSynergy: Predicting Anti-Cancer Drug Synergy with Deep Learning (Bioinformatics 2017)**
   - Kristina Preuer, Richard P I Lewis, Sepp Hochreiter, Andreas Bender, Krishna C Bulusu, Günter Klambauer
   - [[Paper]](https://academic.oup.com/bioinformatics/article/34/9/1538/4747884)
-  - [[PyTorch]](https://github.com/KristinaPreuer/DeepSynergy)
+  - [[Keras]](https://github.com/KristinaPreuer/DeepSynergy)
