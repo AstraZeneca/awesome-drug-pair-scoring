@@ -14,7 +14,8 @@ A collection of machine learning papers and datasets about drug combination ther
 2. [Synergy Score Prediction](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/synergy.md)  
 3. [Polipharmacy Side Effect Prediction](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/polipharmacy.md)
 4. [Generative Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/generative.md)
-5. [Datasets](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/dataset.md)  
+5. [Interaction](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/interaction.md)  
+6. [Datasets](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/dataset.md)  
 
 --------------------------------------------------------------------------------
 
