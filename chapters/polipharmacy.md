@@ -18,8 +18,7 @@
   - [[Paper]](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770)
   - [[TensorFlow]](https://github.com/mims-harvard/decagon)
 
-### 2018
 - **Deep Learning Improves Prediction of Drug--Drug and Drug--Food Interactions (PNAS 2018)**
   - Jae Yong Ryu, Hyun Uk Kim, Sang Yup Lee
   - [[Paper]](https://www.pnas.org/content/115/18/E4304)
-  - [[Language Framework]](https://bitbucket.org/kaistsystemsbiology/deepddi)
+  - [[TensorFlow]](https://bitbucket.org/kaistsystemsbiology/deepddi)
