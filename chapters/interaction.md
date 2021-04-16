@@ -2,9 +2,9 @@
 
 
 ### 2021
-- **MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions (IJCAI 2019)**
+- **SumGNN: Multi-Typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization (Bioinformatics 2021)**
   - Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, Junzhou Zhao
-  - [[Paper]](https://arxiv.org/abs/1905.09558?context=cs.LG)
+  - [[Paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab207/6189090)
   - [[Python PyTorch]](https://github.com/yueyu1030/SumGNN)
 
 ### 2019
