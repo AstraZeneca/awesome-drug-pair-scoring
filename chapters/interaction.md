@@ -3,7 +3,7 @@
 
 ### 2021
 - **SumGNN: Multi-Typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization (Bioinformatics 2021)**
-  - Nuo Xu, Pinghui Wang, Long Chen, Jing Tao, Junzhou Zhao
+  - Yue Yu, Kexin Huang, Chao Zhang, Lucas M Glass, Jimeng Sun, Cao Xiao
   - [[Paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab207/6189090)
   - [[Python PyTorch]](https://github.com/yueyu1030/SumGNN)
 
