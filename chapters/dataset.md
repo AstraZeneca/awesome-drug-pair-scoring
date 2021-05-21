@@ -3,7 +3,7 @@
 ### 2020
 
 - **SYNERGxDB: an Integrative Pharmacogenomic Portal to Identify Synergistic Drug Combinations for Precision Oncology (Nucleic Acids Research 2020)**
-  - Hui Liu, Wenhao Zhang, Bo Zou, Jinxian Wang, Yuanyuan Deng, Lei Deng
+  - Heewon Seo, Denis Tkachuk, Chantal Ho, Anthony Mammoliti, Aria Rezaie, Seyed Ali Madani Tonekaboni, Benjamin Haibe-Kains
   - [[Paper]](https://academic.oup.com/nar/article/48/D1/D871/5609522)
   - [[Dataset]](http://SYNERGxDB.ca/)
 
