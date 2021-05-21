@@ -16,7 +16,7 @@
 
 ### 2019
 
-- **DrugComb: An Integrative Cancer Drug Combination Data Portal (Nucleic Acids Research 2020)**
+- **DrugComb: An Integrative Cancer Drug Combination Data Portal (Nucleic Acids Research 2019)**
   - Hui Liu, Wenhao Zhang, Bo Zou, Jinxian Wang, Yuanyuan Deng, Lei Deng
-  - [[Paper]](https://academic.oup.com/nar/article/48/D1/D871/5609522)
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31066443/)
   - [[Dataset]](http://drugcombdb.denglab.org/)
