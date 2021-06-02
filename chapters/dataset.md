@@ -22,19 +22,19 @@
 
 ### 2014
 
-- **DCDB 2.0: a major update of the drug combination database (Database 2014)**
+- **DCDB 2.0: A Major Update of the Drug Combination Database (Database 2014)**
   - Yanbin Liu, Qiang Wei, Guisheng Yu, Wanxia Gai, Yongquan Li, Xin Chen
   - [[Paper]](https://academic.oup.com/database/article/doi/10.1093/database/bau124/2635579)
   - [[Dataset]](http://www.cls.zju.edu.cn/dcdb/)
 
-- **ASDCD: antifungal synergistic drug combination database (Plos One 2014)**
+- **ASDCD: Antifungal Synergistic Drug Combination Database (Plos One 2014)**
   - Xing Chen, Biao Ren, Ming Chen, Ming-Xi Liu, Wei Ren, Quan-Xin Wang, Li-Xin Zhang, Gui-Ying Yan
   - [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086499)
   - [[Dataset]](http://asdcd.amss.ac.cn/)
 
 ### 2010
 
-- **DCDB: drug combination database (Bioinformatics 2010)**
+- **DCDB: Drug Combination Database (Bioinformatics 2010)**
   - Yanbin Liu, Bin Hu, Chengxin Fu, Xin Chen
   - [[Paper]](https://academic.oup.com/bioinformatics/article/26/4/587/243716)
   - [[Dataset]](http://www.cls.zju.edu.cn/dcdb/)
