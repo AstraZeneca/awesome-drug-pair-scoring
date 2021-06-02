@@ -8,10 +8,6 @@ A collection of machine learning papers and datasets about drug combination ther
   <img width="400" src="https://www.nridigital.com/wp-content/uploads/2018/10/pill.jpg">
 </p>
 
-DCDB
-DCDB update
-
-
 ## Contents  
 
 1. [Survey Papers](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/survey.md)  
