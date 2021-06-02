@@ -31,7 +31,7 @@
 
 ### 2010
 
-- **DrugComb: An Integrative Cancer Drug Combination Data Portal (Nucleic Acids Research 2019)**
-  - Bulat Zagidullin, Jehad Aldahdooh, Shuyu Zheng, Wenyu Wang, Yinyin Wang, Joseph Saad, Alina Malyutina, Mohieddin Jafari, Ziaurrehman Tanoli, Alberto Pessia, Jing Tang
-  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31066443/)
-  - [[Dataset]](https://drugcomb.fimm.fi/)
+- **DCDB: drug combination database (Bioinformatics 2010)**
+  - Yanbin Liu, Bin Hu, Chengxin Fu, Xin Chen
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/26/4/587/243716)
+  - [[Dataset]](http://www.cls.zju.edu.cn/dcdb/)
