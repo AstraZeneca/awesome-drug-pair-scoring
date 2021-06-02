@@ -20,12 +20,12 @@
   - [[Dataset]](https://drugcomb.fimm.fi/)
 
 
-### 201
+### 2014
 
-- **DrugComb: An Integrative Cancer Drug Combination Data Portal (Nucleic Acids Research 2019)**
-  - Bulat Zagidullin, Jehad Aldahdooh, Shuyu Zheng, Wenyu Wang, Yinyin Wang, Joseph Saad, Alina Malyutina, Mohieddin Jafari, Ziaurrehman Tanoli, Alberto Pessia, Jing Tang
-  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31066443/)
-  - [[Dataset]](https://drugcomb.fimm.fi/)
+- **DCDB 2.0: a major update of the drug combination database (Database 2014)**
+  - Yanbin Liu, Qiang Wei, Guisheng Yu, Wanxia Gai, Yongquan Li, Xin Chen
+  - [[Paper]](https://academic.oup.com/database/article/doi/10.1093/database/bau124/2635579)
+  - [[Dataset]](http://www.cls.zju.edu.cn/dcdb/)
 
 
 
