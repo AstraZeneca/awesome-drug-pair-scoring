@@ -3,7 +3,7 @@
 ### 2021
 
 - **Anticancer Drug Synergy Prediction in Understudied Tissues Using Transfer Learning (JAMIA 2021)**
-  - Brent M Kuenzi, Jisoo Park, Samson H Fong, Kyle S Sanchez, John Lee, Jason F Kreisberg, Jianzhu Ma, Trey Ideker
+  - Yejin Kim, Shuyu Zheng, Jing Tang, Wenjin Jim Zheng, Zhao Li, Xiaoqian Jiang
   - [[Paper]](https://academic.oup.com/jamia/article-abstract/28/1/42/5920819)
   - [[PyTorch]](https://github.com/yejinjkim/synergy-transfer)
 
