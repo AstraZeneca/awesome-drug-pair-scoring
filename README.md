@@ -8,7 +8,6 @@ A collection of machine learning papers and datasets about drug combination ther
   <img width="400" src="https://www.nridigital.com/wp-content/uploads/2018/10/pill.jpg">
 </p>
 
-Incorporating Multisource Knowledge To Predict Drug Synergy Based on Graph Co-regularization
 DCDB
 DCDB update
 
