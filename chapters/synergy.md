@@ -15,6 +15,14 @@
   - [[Paper]](https://www.cell.com/cancer-cell/pdf/S1535-6108(20)30488-8.pdf)
   - [[PyTorch]](https://github.com/idekerlab/DrugCell)
 
+### 2019
+
+- **Incorporating Multisource Knowledge To Predict Drug Synergy Based on Graph Co-regularization (JCIM 2019)**
+  - Pingjian Ding, Cong Shen, Zihan Lai, Cheng Liang, Guanghui Li, Jiawei Luo
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31891264/)
+  - [[R]](https://github.com/KDDing/DSGCR)
+
+
 ### 2017
 
 - **DeepSynergy: Predicting Anti-Cancer Drug Synergy with Deep Learning (Bioinformatics 2017)**
