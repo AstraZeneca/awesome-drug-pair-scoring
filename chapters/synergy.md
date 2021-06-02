@@ -2,14 +2,10 @@
 
 ### 2021
 
-- **Predicting Drug Response and Synergy Using a Deep Learning Model of Human Cancer Cells (Cancer Cell 2020)**
+- **Anticancer Drug Synergy Prediction in Understudied Tissues Using Transfer Learning (JAMIA 2021)**
   - Brent M Kuenzi, Jisoo Park, Samson H Fong, Kyle S Sanchez, John Lee, Jason F Kreisberg, Jianzhu Ma, Trey Ideker
   - [[Paper]](https://academic.oup.com/jamia/article-abstract/28/1/42/5920819)
   - [[PyTorch]](https://github.com/yejinjkim/synergy-transfer)
-
-
-https://github.com/yejinjkim/synergy-transfer
-
 
 
 ### 2020
