@@ -10,7 +10,12 @@
   - Kexin Huang, Cao Xiao, Lucas Glass, Marinka Zitnik, Jimeng Sun
   - [[Paper]](https://arxiv.org/abs/2004.14949)
   - [[PyTorch]](https://github.com/kexinhuang12345/SkipGNN)
-  - 
+
+- **CASTER: Predicting Drug Interactions with Chemical Substructure Representation (AAAI 2020)**
+  - Kexin Huang, Cao Xiao, Trong Nghia Hoang, Lucas M. Glass, Jimeng Sun
+  - [[Paper]](https://arxiv.org/abs/1911.06446)
+  - [[PyTorch]](https://github.com/kexinhuang12345/CASTER)
+
 ### 2019
 - **Tri-graph Information Propagation for Polypharmacy Side Effect Prediction (NeurIPS 2019)**
   - Hao Xu, Shengqi Sang, and Haiping Lu
