@@ -44,10 +44,14 @@
   - [[Python Tensorflow]](https://github.com/prometheusXN/MR-GNN)
 
 ### 2018
-- **Decagon: Representation Learning on Multimodal Graphs (Bioinformatics 2018)**
-  - Marina Zitnik, Monica Agarwal, Jure Leskovec
-  - [[Paper]](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770)
-  - [[TensorFlow]](https://github.com/mims-harvard/decagon)
+- **Adverse Drug Reaction Predictions Using Stacking Deep Heterogeneous Information Network Embedding Approach (MDPI 2018)**
+  - Baofang Hu, Hong Wang, Lutong Wang and Weihua Yuan
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320974/)
+
+- **Deep Learning Improves Prediction of Drug--Drug and Drug--Food Interactions (PNAS 2018)**
+  - Jae Yong Ryu, Hyun Uk Kim, Sang Yup Lee
+  - [[Paper]](https://www.pnas.org/content/115/18/E4304)
+  - [[TensorFlow]](https://bitbucket.org/kaistsystemsbiology/deepddi)
 
 - **Deep Learning Improves Prediction of Drug--Drug and Drug--Food Interactions (PNAS 2018)**
   - Jae Yong Ryu, Hyun Uk Kim, Sang Yup Lee
