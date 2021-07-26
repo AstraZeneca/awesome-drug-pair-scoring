@@ -21,7 +21,6 @@
   - [[Paper]](https://www.ijcai.org/proceedings/2020/0380.pdf)
   - [[PyTorch]](https://github.com/xzenglab/KGNN)
 
-
 - **SkipGNN: Predicting Molecular Interactions with Skip-Graph Networks (Nature Scientific Reports 2020)**
   - Kexin Huang, Cao Xiao, Lucas Glass, Marinka Zitnik, Jimeng Sun
   - [[Paper]](https://arxiv.org/abs/2004.14949)
@@ -48,12 +47,15 @@
   - Baofang Hu, Hong Wang, Lutong Wang and Weihua Yuan
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320974/)
 
-- **Deep Learning Improves Prediction of Drug--Drug and Drug--Food Interactions (PNAS 2018)**
-  - Jae Yong Ryu, Hyun Uk Kim, Sang Yup Lee
-  - [[Paper]](https://www.pnas.org/content/115/18/E4304)
-  - [[TensorFlow]](https://bitbucket.org/kaistsystemsbiology/deepddi)
+- **Knowledge Graph Completion to Predict Polypharmacy Side Effects (MDPI 2018)**
+  - Baofang Hu, Hong Wang, Lutong Wang and Weihua Yuan
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320974/)
 
 - **Deep Learning Improves Prediction of Drug--Drug and Drug--Food Interactions (PNAS 2018)**
   - Jae Yong Ryu, Hyun Uk Kim, Sang Yup Lee
   - [[Paper]](https://www.pnas.org/content/115/18/E4304)
   - [[TensorFlow]](https://bitbucket.org/kaistsystemsbiology/deepddi)
+
+- **Knowledge Graph Completion to Predict Polypharmacy Side Effects (DILS 2018)**
+  - Brandon Malone, Alberto García-Durán, Mathias Niepert
+  - [[Paper]](https://arxiv.org/pdf/1810.09227.pdf)
