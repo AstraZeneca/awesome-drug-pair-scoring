@@ -16,6 +16,11 @@
   - [[Paper]](https://arxiv.org/abs/1911.06446)
   - [[PyTorch]](https://github.com/kexinhuang12345/CASTER)
 
+- **KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction (AAAI 2020)**
+  - Xuan Lin, Zhe Quan, Zhi-Jie Wang, Tengfei Ma, Xiangxiang Zeng
+  - [[Paper]](https://www.ijcai.org/proceedings/2020/0380.pdf)
+  - [[PyTorch]](https://github.com/xzenglab/KGNN)
+
 ### 2019
 - **Tri-graph Information Propagation for Polypharmacy Side Effect Prediction (NeurIPS 2019)**
   - Hao Xu, Shengqi Sang, and Haiping Lu
