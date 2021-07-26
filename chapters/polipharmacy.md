@@ -21,7 +21,18 @@
   - [[Paper]](https://www.ijcai.org/proceedings/2020/0380.pdf)
   - [[PyTorch]](https://github.com/xzenglab/KGNN)
 
+
+- **SkipGNN: Predicting Molecular Interactions with Skip-Graph Networks (Nature Scientific Reports 2020)**
+  - Kexin Huang, Cao Xiao, Lucas Glass, Marinka Zitnik, Jimeng Sun
+  - [[Paper]](https://arxiv.org/abs/2004.14949)
+  - [[PyTorch]](https://github.com/kexinhuang12345/SkipGNN)
+
 ### 2019
+- **Drug-Drug Adverse Effect Prediction with Graph Co-Attention (ICML 2019)**
+  - Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang
+  - [[Paper]](https://arxiv.org/abs/1905.00534)
+  - [[PyTorch]](https://github.com/andreeadeac22/graph_coattention)
+
 - **Tri-graph Information Propagation for Polypharmacy Side Effect Prediction (NeurIPS 2019)**
   - Hao Xu, Shengqi Sang, and Haiping Lu
   - [[Paper]](https://grlearning.github.io/papers/94.pdf)
