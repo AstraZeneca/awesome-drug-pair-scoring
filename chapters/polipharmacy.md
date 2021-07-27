@@ -40,7 +40,6 @@
 - **Drug-Drug Adverse Effect Prediction with Graph Co-Attention (ICML 2019)**
   - Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang
   - [[Paper]](https://arxiv.org/abs/1905.00534)
-  - [[PyTorch]](https://github.com/andreeadeac22/graph_coattention)
 
 - **Drug-Drug Adverse Effect Prediction with Graph Co-Attention (ICML 2019)**
   - Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang
