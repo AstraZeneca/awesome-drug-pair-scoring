@@ -39,7 +39,7 @@
 ### 2019
 - **Deep Learning for High-Order Drug-Drug Interaction Prediction (ICML 2019)**
   - Bo Peng and Xia Ning
-  - [[Paper]](https://arxiv.org/abs/1905.00534)
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3307339.3342136)
 
 - **Drug-Drug Adverse Effect Prediction with Graph Co-Attention (ICML 2019)**
   - Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang
