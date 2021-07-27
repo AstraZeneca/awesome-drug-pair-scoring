@@ -6,6 +6,11 @@
   - [[Python PyTorch]](https://github.com/yueyu1030/SumGNN)
 
 ### 2020
+- **DPDDI: A Deep Predictor for Drug-Drug Interactions (BMC Bioinformatics 2020)**
+  - Yue-Hua Feng, Shao-Wu Zhang, Jian-Yu Shi
+  - [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03724-x)
+  - [[TensorFlow]](https://github.com/fenshiwuhen/DPDDI)
+
 - **GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions (IJCAI 2020)**
   - Hanchen Wang, Defu Lian, Ying Zhang, Lu Qin, Xuemin Lin
   - [[Paper]](https://arxiv.org/pdf/2005.05537.pdf)
