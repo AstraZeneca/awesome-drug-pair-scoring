@@ -42,6 +42,11 @@
   - [[Paper]](https://arxiv.org/abs/1905.00534)
   - [[PyTorch]](https://github.com/andreeadeac22/graph_coattention)
 
+- **Drug-Drug Adverse Effect Prediction with Graph Co-Attention (ICML 2019)**
+  - Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang
+  - [[Paper]](https://arxiv.org/abs/1905.00534)
+  - [[PyTorch]](https://github.com/andreeadeac22/graph_coattention)
+
 - **Tri-graph Information Propagation for Polypharmacy Side Effect Prediction (NeurIPS 2019)**
   - Hao Xu, Shengqi Sang, and Haiping Lu
   - [[Paper]](https://grlearning.github.io/papers/94.pdf)
