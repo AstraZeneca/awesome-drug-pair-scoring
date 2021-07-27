@@ -37,7 +37,7 @@
   - [[PyTorch]](https://github.com/kexinhuang12345/SkipGNN)
 
 ### 2019
-- **Deep Learning for High-Order Drug-Drug Interaction Prediction (ICML 2019)**
+- **Deep Learning for High-Order Drug-Drug Interaction Prediction (BCB 2019)**
   - Bo Peng and Xia Ning
   - [[Paper]](https://dl.acm.org/doi/10.1145/3307339.3342136)
 
