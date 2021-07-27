@@ -37,8 +37,8 @@
   - [[PyTorch]](https://github.com/kexinhuang12345/SkipGNN)
 
 ### 2019
-- **Drug-Drug Adverse Effect Prediction with Graph Co-Attention (ICML 2019)**
-  - Andreea Deac, Yu-Hsiang Huang, Petar Veličković, Pietro Liò, Jian Tang
+- **Deep Learning for High-Order Drug-Drug Interaction Prediction (ICML 2019)**
+  - Bo Peng and Xia Ning
   - [[Paper]](https://arxiv.org/abs/1905.00534)
 
 - **Drug-Drug Adverse Effect Prediction with Graph Co-Attention (ICML 2019)**
