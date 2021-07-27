@@ -6,6 +6,11 @@
   - [[Python PyTorch]](https://github.com/yueyu1030/SumGNN)
 
 ### 2020
+- **DeepDrug: A General Graph-Based Deep Learning Framework for Drug Relation Prediction (BioArxiv 2020)**
+  - Xusheng Cao, Rui Fan, Wanwen Zeng
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/2020.11.09.375626v1)
+  - [[Python TensorFlow]](https://github.com/wanwenzeng/deepdrug)
+
 - **DPDDI: A Deep Predictor for Drug-Drug Interactions (BMC Bioinformatics 2020)**
   - Yue-Hua Feng, Shao-Wu Zhang, Jian-Yu Shi
   - [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03724-x)
