@@ -6,6 +6,11 @@
   - [[Python PyTorch]](https://github.com/yueyu1030/SumGNN)
 
 ### 2020
+- **GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions (IJCAI 2020)**
+  - Hanchen Wang, Defu Lian, Ying Zhang, Lu Qin, Xuemin Lin
+  - [[Paper]](https://arxiv.org/pdf/2005.05537.pdf)
+  - [[PyTorch]](https://github.com/Hanchen-Wang/GoGNN)
+
 - **SkipGNN: Predicting Molecular Interactions with Skip-Graph Networks (Nature Scientific Reports 2020)**
   - Kexin Huang, Cao Xiao, Lucas Glass, Marinka Zitnik, Jimeng Sun
   - [[Paper]](https://arxiv.org/abs/2004.14949)
