@@ -1,5 +1,10 @@
 ## Polipharmacy Side Effect Prediction
 ### 2021
+- **DeepDrug: A General Graph-Based Deep Learning Framework for Drug Relation Prediction (BioArxiv 2020)**
+  - Xusheng Cao, Rui Fan, Wanwen Zeng
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/2020.11.09.375626v1)
+  - [[Python TensorFlow]](https://github.com/wanwenzeng/deepdrug)
+
 - **SumGNN: Multi-Typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization (Bioinformatics 2021)**
   - Yue Yu, Kexin Huang, Chao Zhang, Lucas M Glass, Jimeng Sun, Cao Xiao
   - [[Paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab207/6189090)
