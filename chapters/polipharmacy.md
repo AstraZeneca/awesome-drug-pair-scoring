@@ -1,5 +1,10 @@
 ## Polipharmacy Side Effect Prediction
 ### 2021
+- **SSI–DDI: Substructure–Substructure Interactions for Drug–Drug Interaction Prediction (Briefings in Bioinformatics 2021)**
+  - Arnold K. Nyamabo, Hui Yu and Jian-Yu Shi
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/2021.03.16.435553v1.abstract)
+  - [[Python TensorFlow]](https://github.com/naodandandan/DANN-DDI)
+
 - **Enhancing Drug-Drug Interaction Prediction Using Deep Attention Neural Networks (BioArxiv 2021)**
   - Shichao Liu, Yang Zhang, Yuxin Cui, Yang Qiu, Yifan Deng, Wen Zhang, Zhongfei Zhang
   - [[Paper]](https://www.biorxiv.org/content/10.1101/2021.03.16.435553v1.abstract)
