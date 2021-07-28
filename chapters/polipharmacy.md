@@ -3,7 +3,7 @@
 - **SSI–DDI: Substructure–Substructure Interactions for Drug–Drug Interaction Prediction (Briefings in Bioinformatics 2021)**
   - Arnold K. Nyamabo, Hui Yu and Jian-Yu Shi
   - [[Paper]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab133/6265181)
-  - [[Python TensorFlow]](https://github.com/naodandandan/DANN-DDI)
+  - [[PyTorch]](https://github.com/naodandandan/DANN-DDI)
 
 - **Enhancing Drug-Drug Interaction Prediction Using Deep Attention Neural Networks (BioArxiv 2021)**
   - Shichao Liu, Yang Zhang, Yuxin Cui, Yang Qiu, Yifan Deng, Wen Zhang, Zhongfei Zhang
