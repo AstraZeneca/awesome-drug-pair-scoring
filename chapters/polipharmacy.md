@@ -2,7 +2,7 @@
 ### 2021
 - **DeepDrug: A General Graph-Based Deep Learning Framework for Drug Relation Prediction (BioArxiv 2021)**
   - Xusheng Cao, Rui Fan, Wanwen Zeng
-  - [[Paper]](https://www.biorxiv.org/content/10.1101/2020.11.09.375626v1)
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/2021.03.16.435553v1.abstract)
   - [[Python TensorFlow]](https://github.com/naodandandan/DANN-DDI)
 
 - **SumGNN: Multi-Typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization (Bioinformatics 2021)**
