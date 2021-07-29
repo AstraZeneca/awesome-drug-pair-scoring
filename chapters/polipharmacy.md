@@ -1,5 +1,9 @@
 ## Polipharmacy Side Effect Prediction
 ### 2021
+- **Cold-Start Problems in Data-Driven Prediction of Drug–Drug Interaction Effects (MDPI 2021)**
+  - Pieter Dewulf, Michiel Stock and Bernard De Baets
+  - [[Paper]](https://www.mdpi.com/1424-8247/14/5/429)
+
 - **SSI–DDI: Substructure–Substructure Interactions for Drug–Drug Interaction Prediction (Briefings in Bioinformatics 2021)**
   - Arnold K. Nyamabo, Hui Yu and Jian-Yu Shi
   - [[Paper]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab133/6265181)
