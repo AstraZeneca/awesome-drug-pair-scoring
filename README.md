@@ -11,9 +11,11 @@ A collection of machine learning papers and datasets about drug combination ther
 
 ## Contents  
 
-1. [Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/polipharmacy.md)
-2. [Datasets](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/dataset.md)  
-3. [Survey Papers](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/survey.md)  
+1. [Node Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/polipharmacy.md)
+2. [Graph Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/polipharmacy.md)
+3. [Bi-Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/polipharmacy.md)
+4. [Datasets](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/dataset.md)  
+5. [Survey Papers](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/survey.md)  
 
 --------------------------------------------------------------------------------
 
