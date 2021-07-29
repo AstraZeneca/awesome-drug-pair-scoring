@@ -12,7 +12,7 @@
 
 1. [Node Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/node_level.md)
 2. [Graph Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/graph_level.md)
-3. [Bi-Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/polipharmacy.md)
+3. [Bi-Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/bi_level.md)
 4. [Datasets](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/dataset.md)  
 5. [Related Survey Papers](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/survey.md)  
 
