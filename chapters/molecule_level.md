@@ -48,4 +48,4 @@
 
 - **DeepCCI: End-to-end Deep Learning for Chemical-Chemical Interaction Prediction (BCB 2017)**
   - Sunyoung Kwon, Sungroh Yoon
-  - [[Paper]]9https://arxiv.org/abs/1704.08432)
+  - [[Paper]](https://arxiv.org/abs/1704.08432)
