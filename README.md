@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="400" src="https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/blob/master/survey_eyecandy_black_and_white.jpg">
+  <img width="800" src="https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/blob/master/survey_eyecandy_black_and_white.jpg">
 </p>
 
 ## Contents  
