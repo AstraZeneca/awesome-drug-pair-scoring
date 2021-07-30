@@ -41,7 +41,7 @@
 
 ### 2018
 
-- **Deep Learning Improves Prediction of Drug--Drug and Drug--Food Interactions (PNAS 2018)**
+- **Deep Learning Improves Prediction of Drug--Drug and Drug-Food Interactions (PNAS 2018)**
   - Jae Yong Ryu, Hyun Uk Kim, Sang Yup Lee
   - [[Paper]](https://www.pnas.org/content/115/18/E4304)
   - [[TensorFlow]](https://bitbucket.org/kaistsystemsbiology/deepddi)
