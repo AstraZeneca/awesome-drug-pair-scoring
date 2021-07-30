@@ -41,6 +41,12 @@
   - [[PyTorch]](https://github.com/NYXFLOWER/TIP)
 
 ### 2018
+
+- **Modeling Polypharmacy Side Effects with Graph Convolutional Networks (NeurIPS 2019)**
+  - Marinka Zitnik, Monica Agrawal, Jure Leskovec
+  - [[Paper]](https://arxiv.org/abs/1802.00543)
+  - [[Tensorflow]](https://github.com/mims-harvard/decagon)
+
 - **Adverse Drug Reaction Predictions Using Stacking Deep Heterogeneous Information Network Embedding Approach (MDPI 2018)**
   - Baofang Hu, Hong Wang, Lutong Wang and Weihua Yuan
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6320974/)
