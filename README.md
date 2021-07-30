@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="400" src="https://www.nridigital.com/wp-content/uploads/2018/10/pill.jpg">
+  <img width="400" src="https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/blob/master/survey_eyecandy_black_and_white.jpg">
 </p>
 
 ## Contents  
