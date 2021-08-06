@@ -2,8 +2,8 @@
 ### 2021
 
 - **MUFFIN: Multi-Scale Feature Fusion for Drug–Drug Interaction Prediction (Bioinformatics 2021)**
-  - 
-  - [[Paper]](https://www.researchsquare.com/article/rs-397281/v1)
+  - Yujie Chen, Tengfei Ma, Xixi Yang, Jianmin Wang, Bosheng Song, Xiangxiang Zeng
+  - [[Paper]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab169/6171181?redirectedFrom=fulltext)
   - [[Python]](https://github.com/xzenglab/MUFFIN)
 
 - **MTDDI: A Graph Convolutional Network Framework for Predicting Multi-Type Drug-Drug Interactions (BioArxiv 2021)**
