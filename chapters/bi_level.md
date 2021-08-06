@@ -1,6 +1,10 @@
 ## Bi-Level Models
 ### 2021
 
+- **MUFFIN: Multi-Scale Feature Fusion for Drug–Drug Interaction Prediction (Bioinformatics 2021)**
+  - 
+  - [[Paper]](https://www.researchsquare.com/article/rs-397281/v1)
+  - [[Python]](https://github.com/xzenglab/MUFFIN)
 
 - **MTDDI: A Graph Convolutional Network Framework for Predicting Multi-Type Drug-Drug Interactions (BioArxiv 2021)**
   - YueHua Feng, ShaoWu Zhang, Qing-Qing Zhang, Chu-Han Zhang, Jian-Yu Shi
