@@ -1,9 +1,8 @@
 ## Node Level Models
 ### 2021
 - **Drug--Drug Interaction Prediction with Wasserstein Adversarial Autoencoder-Based Knowledge Graph Embeddings (Bioinformatics 2021)**
-  - 
-  - [[Paper]]()
-  - [[Python Tensorflow]]()
+  - Yuanfei Dai, Chenhao Guo, Wenzhong Guo, Carsten Eickhoff
+  - [[Paper]](https://arxiv.org/abs/2004.07341)
 
 - **Enhancing Drug-Drug Interaction Prediction Using Deep Attention Neural Networks (BioArxiv 2021)**
   - Shichao Liu, Yang Zhang, Yuxin Cui, Yang Qiu, Yifan Deng, Wen Zhang, Zhongfei Zhang
