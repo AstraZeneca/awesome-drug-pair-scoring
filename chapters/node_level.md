@@ -1,6 +1,6 @@
 ## Node Level Models
 ### 2021
-- **Drug--Drug Interaction Prediction with Wasserstein Adversarial Autoencoder-Based Knowledge Graph Embeddings (Bioinformatics 2021)**
+- **Drug-Drug Interaction Prediction with Wasserstein Adversarial Autoencoder-Based Knowledge Graph Embeddings (Bioinformatics 2021)**
   - Yuanfei Dai, Chenhao Guo, Wenzhong Guo, Carsten Eickhoff
   - [[Paper]](https://arxiv.org/abs/2004.07341)
 
