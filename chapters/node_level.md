@@ -1,5 +1,9 @@
 ## Node Level Models
 ### 2021
+- **Relation Matters in Sampling: A Scalable Multi-Relational Graph Neural Network for Drug-Drug Interaction Prediction (BioArxiv 2021)**
+  - Arthur Feeney, Rishabh Gupta, Veronika Thost, Rico Angell, Gayathri Chandu, Yash Adhikari, Tengfei Ma
+  - [[Paper]](https://arxiv.org/abs/2105.13975)
+
 - **Drug-Drug Interaction Prediction with Wasserstein Adversarial Autoencoder-Based Knowledge Graph Embeddings (Bioinformatics 2021)**
   - Yuanfei Dai, Chenhao Guo, Wenzhong Guo, Carsten Eickhoff
   - [[Paper]](https://arxiv.org/abs/2004.07341)
