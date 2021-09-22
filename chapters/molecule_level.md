@@ -49,3 +49,8 @@
 - **DeepCCI: End-to-end Deep Learning for Chemical-Chemical Interaction Prediction (BCB 2017)**
   - Sunyoung Kwon, Sungroh Yoon
   - [[Paper]](https://arxiv.org/abs/1704.08432)
+
+- **DeepSynergy: Predicting Anti-Cancer Drug Synergy with Deep Learning (Bioinformatics 2018)**
+  - Kristina Preuer, Richard P I Lewis, Sepp Hochreiter, Andreas Bender, Krishna C Bulusu, Günter Klambauer
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/34/9/1538/4747884?login=true)
+  - [[]]()
