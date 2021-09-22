@@ -1,7 +1,7 @@
 ## Bi-Level Models
 ### 2021
 
-- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design **
+- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design**
   - Benedek Rozemberczki, Anna Gogleva, Sebastian Nilsson, Gavin Edwards, Andriy Nikolov, Eliseo Papa
   - [[Paper]](??)
   - [[Python]](??)
