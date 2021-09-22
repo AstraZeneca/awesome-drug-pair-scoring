@@ -1,6 +1,11 @@
 ## Bi-Level Models
 ### 2021
 
+- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design **
+  - Benedek Rozemberczki, Anna Gogleva, Sebastian Nilsson, Gavin Edwards, Andriy Nikolov, Eliseo Papa
+  - [[Paper]](??)
+  - [[Python]](??)
+
 - **MUFFIN: Multi-Scale Feature Fusion for Drug–Drug Interaction Prediction (Bioinformatics 2021)**
   - Yujie Chen, Tengfei Ma, Xixi Yang, Jianmin Wang, Bosheng Song, Xiangxiang Zeng
   - [[Paper]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab169/6171181?redirectedFrom=fulltext)
