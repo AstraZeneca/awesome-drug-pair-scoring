@@ -8,6 +8,19 @@
   <img width="800" src="https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/blob/master/survey_eyecandy_black_and_white.jpg">
 </p>
 
+**Citing**
+
+If you find this repository useful in your research, please consider citing the following paper:
+
+```bibtex
+@inproceedings{poliddicombisurvey,
+       title = {{}},
+       author = {},
+       year = {2021}
+}
+```
+--------------------------------------------------------------------------------
+
 ## Contents  
 
 1. [Node Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/node_level.md)
