@@ -3,7 +3,12 @@
 
 - **Cold-Start Problems in Data-Driven Prediction of Drug–Drug Interaction Effects (MDPI 2021)**
   - Pieter Dewulf, Michiel Stock and Bernard De Baets
-  - [[Paper]](https://www.mdpi.com/1424-8247/14/5/429)
+  - [[Paper]](https://assets.researchsquare.com/files/rs-598562/v1_covered.pdf?c=1631870448)
+
+- **SmileGNN: Drug-Drug Interaction Prediction Based on SMILES and Graph Neural Network (ResearchSquare 2021)**
+  - Xueting Han, Xutao Li, Junyi Li
+  - [[Paper]](https://assets.researchsquare.com/files/rs-598562/v1_covered.pdf?c=1631870448)
+  - [[TensorFlow]](https://github.com/AshleyHan/SmileGNN)
 
 - **SSI–DDI: Substructure–Substructure Interactions for Drug–Drug Interaction Prediction (Briefings in Bioinformatics 2021)**
   - Arnold K. Nyamabo, Hui Yu and Jian-Yu Shi
