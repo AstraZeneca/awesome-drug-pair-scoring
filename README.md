@@ -23,9 +23,9 @@ If you find this repository useful in your research, please consider citing the 
 
 ## Contents  
 
-1. [Node Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/node_level.md)
-2. [Molecule Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/molecule_level.md)
-3. [Bi-Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/bi_level.md)
+1. [High Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/node_level.md)
+2. [Low Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/molecule_level.md)
+3. [Hierarchical Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/bi_level.md)
 4. [Datasets](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/dataset_old.md)  
 5. [Related Survey Papers](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/survey.md)  
 
