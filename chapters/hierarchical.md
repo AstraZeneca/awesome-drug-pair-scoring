@@ -23,6 +23,11 @@
   - [[Paper]](https://arxiv.org/pdf/2005.05537.pdf)
   - [[PyTorch]](https://github.com/Hanchen-Wang/GoGNN)
 
+- **Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction (ICML Graph Representation and Beyond 2020)**
+  - Yunsheng Bai, Ken Gu, Yizhou Sun, Wei Wang
+  - [[Paper]](https://arxiv.org/pdf/2006.14002.pdf)
+  - [[PyTorch]](https://github.com/codeKgu/BiLevel-Graph-Neural-Network)
+
 ### 2019
 - **Deep Learning for High-Order Drug-Drug Interaction Prediction (BCB 2019)**
   - Bo Peng and Xia Ning
