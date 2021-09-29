@@ -1,6 +1,9 @@
 ## Other Related Survey Papers
 
 ### 2021
+- **A Comprehensive Review of Computational Methods for Drug-drug Interaction Detection (Transactions on Computational Biology and Bioinformatics 2021)**
+  - Yang Qiu, Yang Zhang, Yifan Deng, Shichao Liu, Wen Zhang
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435097)
 
 - **A Survey on Adverse Drug Reaction Studies: Data, Tasks and Machine Learning Methods (Briefings in Bioinformatics 2021)**
   - Duc Anh Nguyen, Canh Hao Nguyen and Hiroshi Mamitsuka
