@@ -1,10 +1,14 @@
 ## Hierarchical Models
 ### 2021
 
-- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design**
+- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design (Arxiv 2021)**
   - Benedek Rozemberczki, Anna Gogleva, Sebastian Nilsson, Gavin Edwards, Andriy Nikolov, Eliseo Papa
   - [[Paper]](??)
   - [[Python]](??)
+
+- **Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction (WWW 2021)**
+  - Yingheng Wang, Yaosen Min, Xin Chen, Ji Wu
+  - [[Paper]](https://arxiv.org/abs/2010.11711)
 
 - **MUFFIN: Multi-Scale Feature Fusion for Drug–Drug Interaction Prediction (Bioinformatics 2021)**
   - Yujie Chen, Tengfei Ma, Xixi Yang, Jianmin Wang, Bosheng Song, Xiangxiang Zeng
