@@ -1,4 +1,4 @@
-## Node Level Models
+## High Level Models
 ### 2021
 - **Relation Matters in Sampling: A Scalable Multi-Relational Graph Neural Network for Drug-Drug Interaction Prediction (BioArxiv 2021)**
   - Arthur Feeney, Rishabh Gupta, Veronika Thost, Rico Angell, Gayathri Chandu, Yash Adhikari, Tengfei Ma
