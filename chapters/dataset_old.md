@@ -1,5 +1,12 @@
 ## Datasets
 
+### 2021
+
+- **Drug–Drug Interaction Database for Safe Prescribing of Systemic Antifungal Agents (Therapeutic Advances in Infectious Disease 2021)**
+  - Saarah Niazi-Ali, Graham T. Atherton, Marcin Walczak, David W. Denning
+  - [[Paper]](https://journals.sagepub.com/doi/full/10.1177/20499361211010605)
+  - [[Dataset]](https://antifungalinteractions.org/)
+
 ### 2020
 
 - **SYNERGxDB: an Integrative Pharmacogenomic Portal to Identify Synergistic Drug Combinations for Precision Oncology (Nucleic Acids Research 2020)**
