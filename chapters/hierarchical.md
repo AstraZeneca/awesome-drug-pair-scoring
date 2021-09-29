@@ -1,4 +1,4 @@
-## Bi-Level Models
+## Hierarchical Models
 ### 2021
 
 - **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design**
