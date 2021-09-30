@@ -1,6 +1,11 @@
 ## Other Related Survey Papers
 
 ### 2021
+
+- **A Comprehensive Review on Deep Synergistic Drug Prediction Techniques for Cancer (Archives of Computational Methods in Engineering 2021)**
+  - Vijay Kumar and Nitin Dogra
+  - [[Paper]](https://link.springer.com/article/10.1007/s11831-021-09617-3)
+
 - **A Comprehensive Review of Computational Methods for Drug-drug Interaction Detection (Transactions on Computational Biology and Bioinformatics 2021)**
   - Yang Qiu, Yang Zhang, Yifan Deng, Shichao Liu, Wen Zhang
   - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435097)
