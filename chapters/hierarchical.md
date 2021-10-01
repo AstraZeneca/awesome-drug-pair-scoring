@@ -41,3 +41,9 @@
 - **Deep Learning for High-Order Drug-Drug Interaction Prediction (BCB 2019)**
   - Bo Peng and Xia Ning
   - [[Paper]](https://dl.acm.org/doi/10.1145/3307339.3342136)
+
+### 2018
+- **Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders (IJCAI 2018)**
+  - Tengfei Ma, Cao Xiao, Jiayu Zhou, Fei Wang
+  - [[Paper]](https://arxiv.org/abs/1804.10850)
+  - [[PyTorch]](https://github.com/matenure/mvGAE)
