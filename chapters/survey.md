@@ -2,6 +2,10 @@
 
 ### 2021
 
+- **Artificial Intelligence and Machine Learning Methods in Predicting Anti-Cancer Drug Combination Effects (Briefings in Bioinformatics 2021)**
+  - Kunjie Fan, Lijun Cheng, Lang Li
+  - [[Paper]](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab271/6338538?login=true)
+
 - **A Comprehensive Review on Deep Synergistic Drug Prediction Techniques for Cancer (Archives of Computational Methods in Engineering 2021)**
   - Vijay Kumar and Nitin Dogra
   - [[Paper]](https://link.springer.com/article/10.1007/s11831-021-09617-3)
