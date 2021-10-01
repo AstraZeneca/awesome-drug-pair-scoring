@@ -2,6 +2,10 @@
 
 ### 2021
 
+- **Machine Learning Approaches for Drug Combination Therapies (Briefings in Bioinformatics 2021)**
+  - Betül Güvenç Paltun, Samuel Kaski and Hiroshi Mamitsuka
+  - [[Paper]](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab293/6343528?login=true)
+
 - **Artificial Intelligence and Machine Learning Methods in Predicting Anti-Cancer Drug Combination Effects (Briefings in Bioinformatics 2021)**
   - Kunjie Fan, Lijun Cheng, Lang Li
   - [[Paper]](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab271/6338538?login=true)
