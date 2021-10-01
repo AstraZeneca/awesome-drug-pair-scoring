@@ -11,6 +11,11 @@
   - [[Paper]](https://www.biorxiv.org/content/10.1101/2021.03.25.437003v1.full.pdf)
   - [[PyTorch]](https://github.com/SynergisticDrugCombinationPrediction/DeepSignalingFlow)
 
+- **TranSynergy: Mechanism-Driven Interpretable Deep Neural Network for the Synergistic Prediction and pPathway Deconvolution of Drug Combinations (PLOS Computational Biology 2021)**
+  - Qiao Liu,Lei Xie
+  - [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008653)
+  - [[PyTorch]](https://github.com/XieResearchGroup/drug_combine)
+
 - **Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction (WWW 2021)**
   - Yingheng Wang, Yaosen Min, Xin Chen, Ji Wu
   - [[Paper]](https://arxiv.org/abs/2010.11711)
