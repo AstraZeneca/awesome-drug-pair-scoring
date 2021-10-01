@@ -6,6 +6,11 @@
   - [[Paper]](??)
   - [[Python]](??)
 
+- **Mining Signaling Flow to Interpret Mechanisms of Synergy of Drug Combinations Using Deep Graph Neural Networks (BioArxiv 2021)**
+  - Heming Zhang, Yixin Chen, Philip Payne, Fuhai Li
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/2021.03.25.437003v1.full.pdf)
+  - [[PyTorch]](https://github.com/SynergisticDrugCombinationPrediction/DeepSignalingFlow)
+
 - **Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction (WWW 2021)**
   - Yingheng Wang, Yaosen Min, Xin Chen, Ji Wu
   - [[Paper]](https://arxiv.org/abs/2010.11711)
