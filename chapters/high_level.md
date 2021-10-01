@@ -1,5 +1,11 @@
 ## High Level Models
 ### 2021
+
+- **GraphSynergy: Network Inspired Deep Learning Model for Anti-Cancer Drug Combination Prediction (ResearchSquare 2021)**
+  - Jiannan Yang, Zhongzhi Xu, William Wu, Qian Chu, Qingpeng Zhang
+  - [[Paper]](https://www.researchsquare.com/article/rs-315189/v1)
+  - [[Tensorflow]](https://github.com/JasonJYang/GraphSynergy)
+
 - **Relation Matters in Sampling: A Scalable Multi-Relational Graph Neural Network for Drug-Drug Interaction Prediction (BioArxiv 2021)**
   - Arthur Feeney, Rishabh Gupta, Veronika Thost, Rico Angell, Gayathri Chandu, Yash Adhikari, Tengfei Ma
   - [[Paper]](https://arxiv.org/abs/2105.13975)
