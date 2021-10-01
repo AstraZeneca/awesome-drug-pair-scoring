@@ -1,4 +1,4 @@
-## Other Related Survey Papers
+## Related Survey Papers
 
 ### 2021
 
