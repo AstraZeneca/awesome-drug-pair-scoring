@@ -1,6 +1,10 @@
 ## Low Level Models
 ### 2021
 
+- **Synergistic Drug Combination Prediction by Integrating Multiomics Data in Deep Learning Models (Translational Bioinformatics for Therapeutic Development 2021)**
+  - Tianyu Zhang, Liwei Zhang, Philip R. O. Payne, Fuhai Li
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/2020.05.24.113241v3)
+ 
 - **MatchMaker: A Deep Learning Framework for Drug Synergy Prediction (IEEE/ACM Transactions on Computational Biology and Bioinformatics 2021)**
   - Halil Ibrahim Kuru, Oznur Tastan, A. Ercument Cicek
   - [[Paper]](https://www.biorxiv.org/content/10.1101/2020.05.24.113241v3)
