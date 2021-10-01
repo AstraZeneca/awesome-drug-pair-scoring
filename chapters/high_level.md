@@ -25,6 +25,10 @@
   - [[Python PyTorch]](https://github.com/yueyu1030/SumGNN)
 
 ### 2020
+- **DTF: Deep Tensor Factorization for Predicting Anticancer Drug Synergy (IJCAI 2020)**
+  - Zexuan Sun, Shujun Huang, Peiran Jiang, Pingzhao Hu
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/36/16/4483/5830267?login=true)
+  - [[PyTorch]](https://github.com/ZexuanSun/DTF-Drug-Synergy)
 
 - **GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions (IJCAI 2020)**
   - Hanchen Wang, Defu Lian, Ying Zhang, Lu Qin, Xuemin Lin
