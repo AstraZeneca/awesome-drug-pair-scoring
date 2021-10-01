@@ -10,6 +10,11 @@
   - [[Paper]](https://assets.researchsquare.com/files/rs-598562/v1_covered.pdf?c=1631870448)
   - [[TensorFlow]](https://github.com/AshleyHan/SmileGNN)
 
+- **DeepDDS: Deep Graph Neural Network with Attention Mechanism to Predict Synergistic Drug Combinations (Arxiv 2021)**
+  - Jinxian Wang, Wenhao Zhang, Siyuan Shen, Lei Deng, Hui Liu
+  - [[Paper]](https://www.biorxiv.org/content/10.1101/2021.04.06.438723v1.abstract)
+  - [[PyTorch]](https://github.com/Sinwang404/DeepDDs)
+
 - **SSI–DDI: Substructure–Substructure Interactions for Drug–Drug Interaction Prediction (Briefings in Bioinformatics 2021)**
   - Arnold K. Nyamabo, Hui Yu and Jian-Yu Shi
   - [[Paper]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab133/6265181)
