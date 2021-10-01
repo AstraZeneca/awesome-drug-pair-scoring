@@ -41,7 +41,7 @@
 
 ### 2012
 
-- **Data-driven prediction of drug effects and interactions (Science translational medicine 2012)**
+- **Data-Driven Prediction of Drug Effects and Interactions (Science Translational Medicine 2012)**
   - Tatonetti, Nicholas P and Patrick, P Ye and Daneshjou, Roxana and Altman, Russ B
   - [[Paper]](https://www.science.org/doi/full/10.1126/scitranslmed.3003377)
   - [[Dataset]](http://tatonettilab.org/offsides/)
