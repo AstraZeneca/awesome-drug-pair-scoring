@@ -39,6 +39,13 @@
   - [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086499)
   - [[Dataset]](http://asdcd.amss.ac.cn/)
 
+### 2012
+
+- **Data-driven prediction of drug effects and interactions (Science translational medicine 2012)**
+  - Tatonetti, Nicholas P and Patrick, P Ye and Daneshjou, Roxana and Altman, Russ B
+  - [[Paper]](https://www.science.org/doi/full/10.1126/scitranslmed.3003377)
+  - [[Dataset]](http://tatonettilab.org/offsides/)
+
 ### 2010
 
 - **DCDB: Drug Combination Database (Bioinformatics 2010)**
