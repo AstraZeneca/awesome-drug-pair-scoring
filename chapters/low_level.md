@@ -10,11 +10,6 @@
   - [[Paper]](https://assets.researchsquare.com/files/rs-598562/v1_covered.pdf?c=1631870448)
   - [[TensorFlow]](https://github.com/AshleyHan/SmileGNN)
 
-- **Mining Signaling Flow to Interpret Mechanisms of Synergy of Drug Combinations Using Deep Graph Neural Networks (BioArxiv 2021)**
-  - Heming Zhang, Yixin Chen, Philip Payne, Fuhai Li
-  - [[Paper]](https://www.biorxiv.org/content/10.1101/2021.03.25.437003v1.full.pdf)
-  - [[PyTorch]](https://github.com/SynergisticDrugCombinationPrediction/DeepSignalingFlow)
-
 - **SSI–DDI: Substructure–Substructure Interactions for Drug–Drug Interaction Prediction (Briefings in Bioinformatics 2021)**
   - Arnold K. Nyamabo, Hui Yu and Jian-Yu Shi
   - [[Paper]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab133/6265181)
