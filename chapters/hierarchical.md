@@ -1,16 +1,15 @@
 ## Hierarchical Models
 ### 2021
 
+- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design (Arxiv 2021)**
+  - Benedek Rozemberczki, Anna Gogleva, Sebastian Nilsson, Gavin Edwards, Andriy Nikolov, Eliseo Papa
+  - [[Paper]](??)
+  - [[Python]](??)
 
 - **Anti-cancer Drug Synergy Prediction in Understudied Tissues using Transfer Learning (Journal of the American Medical Informatics Association 2021)**
   - Yejin Kim, Shuyu Zheng, Jing Tang, W. Jim Zheng, Zhao Li, Xiaoqian Jiang
   - [[Paper]](https://www.biorxiv.org/content/10.1101/2020.02.05.932657v1.full.pdf+html)
   - [[Python]](https://github.com/yejinjkim/drug-synergy-prediction)
-
-- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design (Arxiv 2021)**
-  - Benedek Rozemberczki, Anna Gogleva, Sebastian Nilsson, Gavin Edwards, Andriy Nikolov, Eliseo Papa
-  - [[Paper]](??)
-  - [[Python]](??)
 
 - **Mining Signaling Flow to Interpret Mechanisms of Synergy of Drug Combinations Using Deep Graph Neural Networks (BioArxiv 2021)**
   - Heming Zhang, Yixin Chen, Philip Payne, Fuhai Li
