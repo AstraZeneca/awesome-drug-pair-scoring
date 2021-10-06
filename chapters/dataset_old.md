@@ -8,7 +8,7 @@
   - [[Dataset]](https://antifungalinteractions.org/)
 
 - **Therapeutics Data Commons (NeurIPS 2021)**
-  - Kexin Huang*, Tianfan Fu, Wenhao Gao, Yue Zhao, Yusuf Roohani, Jure Leskovec, Connor W. Coley, Cao Xiao, Jimeng Sun, Marinka Zitnik
+  - Kexin Huang, Tianfan Fu, Wenhao Gao, Yue Zhao, Yusuf Roohani, Jure Leskovec, Connor W. Coley, Cao Xiao, Jimeng Sun, Marinka Zitnik
   - [[Paper]](https://journals.sagepub.com/doi/full/10.1177/20499361211010605)
   - [[Dataset]](https://tdcommons.ai/multi_pred_tasks/ddi/)
 
