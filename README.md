@@ -15,7 +15,7 @@ If you find this repository useful in your research, please consider citing the 
 ```bibtex
 @inproceedings{poliddicombisurvey,
        title = {{A Unified View of Relational Deep Learning for Polipharmacy Side Effect, Combination Therapy and Drug-Drug Interaction Prediction}},
-       author = {Benedek Rozemberczki and Stephen Bonner and Andriy Nikolov and Sebastian Nilsson},
+       author = {Benedek Rozemberczki and Stephen Bonner and Andriy Nikolov Michael Ughetto and Sebastian Nilsson},
        year = {2021}
 }
 ```
