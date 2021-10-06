@@ -1,6 +1,10 @@
 ## Low Level Models
 ### 2021
 
+- **GCN-BMP: Investigating graph representation learning for DDI prediction task**
+ - Xin Chena, Xien Liua, Ji Wu
+ - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1046202320300608)
+
 - **Synergistic Drug Combination Prediction by Integrating Multiomics Data in Deep Learning Models (Translational Bioinformatics for Therapeutic Development 2021)**
   - Tianyu Zhang, Liwei Zhang, Philip R. O. Payne, Fuhai Li
   - [[Paper]](https://www.biorxiv.org/content/10.1101/2020.05.24.113241v3)
