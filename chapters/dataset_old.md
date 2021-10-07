@@ -31,6 +31,13 @@
   - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31066443/)
   - [[Dataset]](https://drugcomb.fimm.fi/)
 
+### 2018
+
+- **DrugBank 5.0 (Nucleic Acids Research 2018)**
+  - David S. Wishart, Yannick D. Feunang, An C. Guo , Elvis J. Lo, Ana Marcu, Jason R. Grant1, Tanvir Sajed, Daniel Johnson1, Carin Li1, Zinat Sayeeda, Nazanin Assempour, Ithayavani Iynkkaran, Yifeng Liu, Adam Maciejewski, Nicola Gale, Alex Wilson, Lucy Chin, Ryan Cummings5, Diana Le, Allison Pon, Craig Knox and Michael Wilson
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/29126136/)
+  - [[Dataset]](https://go.drugbank.com/)
+
 
 ### 2014
 
