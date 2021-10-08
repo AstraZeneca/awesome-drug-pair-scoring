@@ -38,6 +38,13 @@
   - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/29126136/)
   - [[Dataset]](https://go.drugbank.com/)
 
+### 2016
+
+- **(STITCH CCI) - STITCH 5: augmenting protein--chemical interaction networks with tissue and affinity data**
+  - Szklarczyk, Damian and Santos, Alberto and Von Mering, Christian and Jensen, Lars Juhl and Bork, Peer and Kuhn, Michael
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/26590256/)
+  - [[Dataset]](http://stitch.embl.de/cgi/download.pl?UserId=6m9TOj66XuIx&sessionId=obJN2a90uy33)
+
 
 ### 2014
 
@@ -53,7 +60,7 @@
 
 ### 2012
 
-- **Data-Driven Prediction of Drug Effects and Interactions (Science Translational Medicine 2012)**
+- **(TWOSIDES) - Data-Driven Prediction of Drug Effects and Interactions (Science Translational Medicine 2012)**
   - Tatonetti, Nicholas P and Patrick, P Ye and Daneshjou, Roxana and Altman, Russ B
   - [[Paper]](https://www.science.org/doi/full/10.1126/scitranslmed.3003377)
   - [[Dataset]](http://tatonettilab.org/offsides/)
