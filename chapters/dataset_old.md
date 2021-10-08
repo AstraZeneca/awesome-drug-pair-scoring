@@ -33,6 +33,10 @@
 
 ### 2018
 
+- **(ChCh-Miner) - BioSNAP Datasets: Stanford Biomedical Network Dataset Collection**
+  - Marinka Zitnik, Rok Sosivc, Sagar Maheshwari, and Jure Leskovec
+  - [[Dataset]](https://snap.stanford.edu/biodata/datasets/10001/10001-ChCh-Miner.html)
+
 - **DrugBank 5.0 (Nucleic Acids Research 2018)**
   - David S. Wishart, Yannick D. Feunang, An C. Guo , Elvis J. Lo, Ana Marcu, Jason R. Grant1, Tanvir Sajed, Daniel Johnson1, Carin Li1, Zinat Sayeeda, Nazanin Assempour, Ithayavani Iynkkaran, Yifeng Liu, Adam Maciejewski, Nicola Gale, Alex Wilson, Lucy Chin, Ryan Cummings5, Diana Le, Allison Pon, Craig Knox and Michael Wilson
   - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/29126136/)
@@ -40,7 +44,7 @@
 
 ### 2016
 
-- **(STITCH CCI) - STITCH 5: augmenting protein--chemical interaction networks with tissue and affinity data**
+- **(STITCH CCI) - STITCH 5: augmenting protein--chemical interaction networks with tissue and affinity data (Nucleic Acids Research 2018)**
   - Szklarczyk, Damian and Santos, Alberto and Von Mering, Christian and Jensen, Lars Juhl and Bork, Peer and Kuhn, Michael
   - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/26590256/)
   - [[Dataset]](http://stitch.embl.de/cgi/download.pl?UserId=6m9TOj66XuIx&sessionId=obJN2a90uy33)
