@@ -16,6 +16,13 @@
   - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/29126136/)
   - [[Dataset]](https://go.drugbank.com/)
 
+#### 2017
+
+- **(ZhangDDI) Predicting potential drug-drug interactions by integrating chemical, biological,phenotypic and network data (Bioinformatics 2017)**
+  - Zhang, Wen, Yanlin Chen, Feng Liu, Fei Luo, Gang Tian, and Xiaohong Li.
+  - [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1415-9)
+  - [[Dataset]](https://github.com/zw9977129/drug-drug-interaction/tree/master/dataset)
+
 #### 2012
 
 - **(TWOSIDES) - Data-Driven Prediction of Drug Effects and Interactions (Science Translational Medicine 2012)**
