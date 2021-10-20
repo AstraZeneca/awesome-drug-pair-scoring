@@ -16,12 +16,11 @@
   - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/29126136/)
   - [[Dataset]](https://go.drugbank.com/)
 
-#### 2017
+- **(DeepDDI) Deep learning improves prediction of drug–drug and drug–food interactions (PNAS 2018)**
+  - Ryu, Jae Yong, Hyun Uk Kim, and Sang Yup Lee.
+  - [[Paper]](https://www.pnas.org/content/115/18/E4304.short)
+  - [[Dataset]](https://zenodo.org/record/1205795#.YVbsCi8w1tY)
 
-- **(ZhangDDI) Predicting potential drug-drug interactions by integrating chemical, biological,phenotypic and network data (Bioinformatics 2017)**
-  - Zhang, Wen, Yanlin Chen, Feng Liu, Fei Luo, Gang Tian, and Xiaohong Li.
-  - [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1415-9)
-  - [[Dataset]](https://github.com/zw9977129/drug-drug-interaction/tree/master/dataset)
 
 #### 2012
 
@@ -37,6 +36,13 @@
 - **(ChCh-Miner) - BioSNAP Datasets: Stanford Biomedical Network Dataset Collection**
   - Marinka Zitnik, Rok Sosivc, Sagar Maheshwari, and Jure Leskovec
   - [[Dataset]](https://snap.stanford.edu/biodata/datasets/10001/10001-ChCh-Miner.html)
+
+#### 2017
+
+- **(ZhangDDI) Predicting potential drug-drug interactions by integrating chemical, biological,phenotypic and network data (Bioinformatics 2017)**
+  - Zhang, Wen, Yanlin Chen, Feng Liu, Fei Luo, Gang Tian, and Xiaohong Li.
+  - [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1415-9)
+  - [[Dataset]](https://github.com/zw9977129/drug-drug-interaction/tree/master/dataset)
 
 #### 2016
 
