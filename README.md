@@ -10,8 +10,9 @@
 
 
 
-## [The Survey Paper]()
+## The Survey Paper
 
+This repository accompanies our survey paper [A Unified View of Relational Deep Learning for Polipharmacy Side Effect, Combination Therapy and Drug-Drug Interaction Prediction]().
 
 If you find the survey or this repository useful in your research, please consider citing our paper:
 
