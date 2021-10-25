@@ -12,9 +12,8 @@
 
 ## [The Survey Paper]()
 
-##  Citing
 
-If you find this repository useful in your research, please consider citing the following paper:
+If you find the survey or this repository useful in your research, please consider citing our paper:
 
 ```bibtex
 @inproceedings{poliddicombisurvey,
