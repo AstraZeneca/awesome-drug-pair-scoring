@@ -1,11 +1,11 @@
-# Polipharmacy - DDI - Synergy Survey
+# Polypharmacy - DDI - Synergy Survey
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Maturity level-0](https://img.shields.io/badge/Maturity%20Level-ML--0-red)
 
 
 <p align="center">
-  <img width="800" src="https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/blob/master/survey_eyecandy_black_and_white.jpg">
+  <img width="800" src="https://github.com/AstraZeneca/awesome-polypharmacy-side-effect-prediction/blob/master/survey_eyecandy_black_and_white.jpg">
 </p>
 
 
@@ -18,7 +18,7 @@ If you find the survey or this repository useful in your research, please consid
 
 ```bibtex
 @inproceedings{poliddicombisurvey,
-       title = {{A Unified View of Relational Deep Learning for Polipharmacy Side Effect, Combination Therapy and Drug-Drug Interaction Prediction}},
+       title = {{A Unified View of Relational Deep Learning for Polypharmacy Side Effect, Combination Therapy and Drug-Drug Interaction Prediction}},
        author = {Benedek Rozemberczki and Stephen Bonner and Andriy Nikolov Michael Ughetto and Sebastian Nilsson},
        year = {2021}
 }
