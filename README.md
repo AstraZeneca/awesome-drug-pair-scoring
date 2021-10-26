@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="800" src="https://github.com/AstraZeneca/awesome-polypharmacy-side-effect-prediction/blob/master/survey_eyecandy_black_and_white.jpg">
+  <img width="800" src="https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey/blob/master/survey_eyecandy_black_and_white.jpg">
 </p>
 
 
@@ -27,14 +27,14 @@ If you find the survey or this repository useful in your research, please consid
 
 ## Contents  
 
-1. [High Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/high_level.md)
-2. [Low Level Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/low_level.md)
-3. [Hierarchical Models](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/hierarchical.md)
-4. [Datasets](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/dataset.md)  
-5. [Related Survey Papers](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/chapters/survey.md)  
+1. [High Level Models](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey/blob/master/chapters/high_level.md)
+2. [Low Level Models](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey/blob/master/chapters/low_level.md)
+3. [Hierarchical Models](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey/blob/master/chapters/hierarchical.md)
+4. [Datasets](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey/blob/master/chapters/dataset.md)  
+5. [Related Survey Papers](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey/blob/master/chapters/survey.md)  
 
 --------------------------------------------------------------------------------
 
 **License**
 
-- [Apache 2.0](https://github.com/AstraZeneca/awesome-machine-learning-for-combination-therapy/blob/master/LICENSE)
+- [Apache 2.0](https://github.com/AstraZeneca/polypharmacy-ddi-synergy-survey/blob/master/LICENSE)
