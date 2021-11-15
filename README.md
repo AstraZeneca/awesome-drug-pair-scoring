@@ -12,13 +12,13 @@
 
 ## The Survey Paper
 
-This repository accompanies our survey paper [A Unified View of Relational Deep Learning for Polypharmacy Side Effect, Combination Therapy, and Drug-Drug Interaction Prediction](https://arxiv.org/abs/2111.02916).
+This repository accompanies our survey paper [A Unified View of Relational Deep Learning for Drug Pair Scoring](https://arxiv.org/abs/2111.02916).
 
 If you find the survey or this repository useful in your research, please consider citing our paper:
 
 ```bibtex
 @inproceedings{poliddicombisurvey,
-       title = {{A Unified View of Relational Deep Learning for Polypharmacy Side Effect, Combination Therapy, and Drug-Drug Interaction Prediction}},
+       title = {{A Unified View of Relational Deep Learning for Drug Pair Scoring}},
        author = {Benedek Rozemberczki and Stephen Bonner and Andriy Nikolov and Michaël Ughetto and Sebastian Nilsson and Eliseo Papa},
        year = {2021}
 }
