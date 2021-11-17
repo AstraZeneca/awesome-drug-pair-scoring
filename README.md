@@ -17,10 +17,13 @@ This repository accompanies our survey paper [A Unified View of Relational Deep 
 If you find the survey or this repository useful in your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{poliddicombisurvey,
-       title = {{A Unified View of Relational Deep Learning for Drug Pair Scoring}},
-       author = {Benedek Rozemberczki and Stephen Bonner and Andriy Nikolov and Michaël Ughetto and Sebastian Nilsson and Eliseo Papa},
-       year = {2021}
+@misc{rozemberczki2021unified,
+      title={{A Unified View of Relational Deep Learning for Drug Pair Scoring}}, 
+      author={Benedek Rozemberczki and Stephen Bonner and Andriy Nikolov and Michael Ughetto and Sebastian Nilsson and Eliseo Papa},
+      year={2021},
+      eprint={2111.02916},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 --------------------------------------------------------------------------------
