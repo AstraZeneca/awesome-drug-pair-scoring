@@ -9,6 +9,14 @@
   - [[Paper]](https://journals.sagepub.com/doi/full/10.1177/20499361211010605)
   - [[Dataset]](https://tdcommons.ai/multi_pred_tasks/ddi/)
 
+#### 2019
+
+- **Efficient Learning of Relational Gaifman Models using Probabilistic Logic**
+  - Devendra Singh Dhami, Gautam Kunapuli, and Sriraam Natarajan
+  - [[Paper]](https://drive.google.com/file/d/1GCsTavPvWSDy-MiUc8PcUngGMv11yf0f/view)
+  - [[Dataset]](https://starling.utdallas.edu/datasets/ddi-relational/)
+  - [[Dataset / Additional Publications]](https://srlearn.github.io/relational-datasets/dataset_descriptions/drug_interactions/)
+
 #### 2018
 
 - **DrugBank 5.0 (Nucleic Acids Research 2018)**
