@@ -18,13 +18,14 @@ This repository accompanies our survey paper [A Unified View of Relational Deep 
 If you find the survey or this repository useful in your research, please consider citing our paper:
 
 ```bibtex
-@misc{rozemberczki2021unified,
-      title={{A Unified View of Relational Deep Learning for Drug Pair Scoring}}, 
-      author={Benedek Rozemberczki and Stephen Bonner and Andriy Nikolov and Michael Ughetto and Sebastian Nilsson and Eliseo Papa},
-      year={2021},
-      eprint={2111.02916},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{pairscoring,
+  title     = {A Unified View of Relational Deep Learning for Drug Pair Scoring},
+  author    = {Rozemberczki, Benedek and Bonner, Stephen and Nikolov, Andriy and Ughetto, Michaël and Nilsson, Sebastian and Papa, Eliseo},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {5564--5571},
+  year      = {2022},
 }
 ```
 --------------------------------------------------------------------------------
