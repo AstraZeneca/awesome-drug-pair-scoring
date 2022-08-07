@@ -1,9 +1,12 @@
 ## Hierarchical Models
-### 2021
 
-- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design (Arxiv 2021)**
+### 2022
+
+- **MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy Design (CIKM 2022)**
   - Benedek Rozemberczki, Anna Gogleva, Sebastian Nilsson, Gavin Edwards, Andriy Nikolov, Eliseo Papa
   - [[Paper]](https://arxiv.org/abs/2110.15087)
+  - 
+### 2021
 
 - **Anti-cancer Drug Synergy Prediction in Understudied Tissues using Transfer Learning (Journal of the American Medical Informatics Association 2021)**
   - Yejin Kim, Shuyu Zheng, Jing Tang, W. Jim Zheng, Zhao Li, Xiaoqian Jiang
