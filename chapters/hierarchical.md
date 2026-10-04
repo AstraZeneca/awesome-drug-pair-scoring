@@ -16,9 +16,9 @@
 - **Mining Signaling Flow to Interpret Mechanisms of Synergy of Drug Combinations Using Deep Graph Neural Networks (BioArxiv 2021)**
   - Heming Zhang, Yixin Chen, Philip Payne, Fuhai Li
   - [[Paper]](https://www.biorxiv.org/content/10.1101/2021.03.25.437003v1.full.pdf)
-  - [[PyTorch]](https://github.com/SynergisticDrugCombinationPrediction/DeepSignalingFlow)
+  - [[PyTorch]](https://github.com/FuhaiLiAiLab/DeepSignalingFlow)
 
-- **TranSynergy: Mechanism-Driven Interpretable Deep Neural Network for the Synergistic Prediction and pPathway Deconvolution of Drug Combinations (PLOS Computational Biology 2021)**
+- **TranSynergy: Mechanism-Driven Interpretable Deep Neural Network for the Synergistic Prediction and Pathway Deconvolution of Drug Combinations (PLOS Computational Biology 2021)**
   - Qiao Liu,Lei Xie
   - [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008653)
   - [[PyTorch]](https://github.com/XieResearchGroup/drug_combine)
